@@ -27,9 +27,9 @@ export default function Hero({ onScrollToCalculator }: HeroProps) {
           </div>
 
           <h1 className="font-display text-6xl sm:text-7xl lg:text-8xl font-black leading-[0.85] tracking-tighter uppercase mb-6 text-white">
-            BULK <br />
-            <span className="text-blue-500">WATER</span> <br />
-            SUPPLY.
+            WATER <br />
+            <span className="text-blue-500">FOR</span> <br />
+            ALL.
           </h1>
 
           <p className="mt-8 text-lg sm:text-xl text-slate-300 font-medium max-w-2xl leading-relaxed">
