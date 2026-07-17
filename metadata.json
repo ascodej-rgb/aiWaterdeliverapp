@@ -1,0 +1,6 @@
+{
+  "name": "Commercial Bulk Water Tanker Delivery",
+  "description": "A professional bulk water delivery platform for commercial clients with instant volume-based and distance-based pricing estimations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
