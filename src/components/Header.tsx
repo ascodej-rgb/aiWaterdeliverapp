@@ -57,7 +57,7 @@ export default function Header({
               <div className="text-right">
                 <p className="text-[9px] uppercase tracking-widest text-slate-500 font-extrabold">24/7 Dispatch</p>
                 <a href="tel:+251911234567" className="text-xs font-black text-slate-900 hover:text-blue-600 transition font-mono tracking-tight">
-                  +251 911 234567
+                  +251 9 34079943
                 </a>
               </div>
             </div>
